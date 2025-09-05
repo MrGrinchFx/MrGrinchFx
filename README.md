@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Currently interested in LLM inference serving on the Graphics Processing Unit (GPU) <br>📚 I'm currently learning the Rust programming language in the hopes to be a rustacean! <br> 🎯 Goals: Contribute to open source software for the development of new software <br>🎲 Fun fact: I've spent too much money on keyboards and pickleball :( </p>
+<p align="left">✨ Currently interested in LLM inference serving on the Graphics Processing Unit (GPU) <br>📚 I'm currently learning the Rust programming language in the hopes to be a rustacean! <br> 🎯 Goals: Contribute to open source software for projects I'm currently following <br>🎲 Fun fact: I've spent too much money on keyboards and pickleball :( </p>
 
 ###
 
